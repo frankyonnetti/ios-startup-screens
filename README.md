@@ -1,4 +1,4 @@
-ios-startup-screens
+iOS Startup Screens
 ===================
 
-Start up screens PSD's for iOS apps and web apps
+Start up screen PSD's for iOS apps and web apps.
